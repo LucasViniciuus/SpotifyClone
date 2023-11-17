@@ -4,4 +4,4 @@ __Neste projeto, juntamente a Imã tech, responsável pelo treinamento/trilha de
 
 - **Uso de tags semânticas.**
 - **Entendimentos de estruturas HTML para realização e estruturação da página.**
-- **Conhecimento de projetos de bigtechs e como elas entendem o mercado e quais tecnologias usadas em uma página, por exemplo.**
+- **Conhecimento de projetos e formas utilizadas por bigtechs e como elas entendem o mercado e quais tecnologias usadas em uma página, por exemplo.**
